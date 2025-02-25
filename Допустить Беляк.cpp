@@ -7,6 +7,7 @@ int main()
 	int kolvo;
 	kolvo = ((m + a - 1) / a) * ((n + a - 1) / a);
 	cout << kolvo;
+	cout << "Hello World";
 	return 0;
 }
 
