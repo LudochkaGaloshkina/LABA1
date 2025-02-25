@@ -1,2 +1,1 @@
 # LABA1
-# Kompotik
