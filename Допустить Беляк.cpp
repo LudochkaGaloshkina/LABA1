@@ -2,6 +2,7 @@
 #include <iostream>
 int main()
 {
+	int lab=0;
 	int n, m, a;
 	cin >> n >> m >> a;
 	int kolvo;
