@@ -9,4 +9,4 @@ int main()
 	cout << kolvo;
 	return 0;
 }
-ывваыввыаруа
+
